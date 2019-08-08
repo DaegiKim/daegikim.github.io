@@ -23,6 +23,14 @@ permalink: /articles/:year/:month/:day/:title
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 5
 paginate_path: '/page/:num/'
+
+defaults:
+  -
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
