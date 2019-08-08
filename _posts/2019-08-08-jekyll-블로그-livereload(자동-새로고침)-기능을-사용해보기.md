@@ -13,7 +13,7 @@ Jekyll은 개발 서버도 내장하고 있어, 로컬에서 브라우저로 접
 
 ![No image](/assets/images/posts/20190808/1.png)
 
-오늘 소개해 볼 기능은 Jekyll을 편집할 때 마다 자동으로 브라우저 새로고침이 되도록 도와주는 LiveReload[^livereload] 기능이다. 이 기능을 사용하면 개발 속도가 매우 많이 향상되고, 내가 작성한 게시물의 Markdown 렌더링 결과를 빠르게 미리볼 수 있어서 좋다.
+오늘 소개해 볼 기능은 Jekyll을 편집할 때 마다 자동으로 브라우저 새로고침이 되도록 도와주는 LiveReload[^livereload] 기능이다. 이 기능을 사용하면 개발 속도가 많이 향상되고, 내가 작성한 게시물의 Markdown 렌더링 결과를 빠르게 미리볼 수 있어서 좋다.
 LiveReload 기능은 2018년 1월 2일에 릴리즈 된 Jekyll 3.7.0 부터 적용이 되었다. 
 
 일단 Jekyll 서버를 로컬에서 구동하려면 ruby(>=2.2.5)와 bundler gem, jekyll gem을 설치해야 한다. 자세한 과정은 [이 링크](http://jekyllrb-ko.github.io/docs/installation/)에 있다.
