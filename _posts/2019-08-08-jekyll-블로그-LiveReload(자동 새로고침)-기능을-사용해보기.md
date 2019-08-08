@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll 블로그 LiverReload(자동 새로고침) 기능을 사용해보기"
+title:  "Jekyll 블로그 LiveReload(자동 새로고침) 기능을 사용해보기"
 date:   2019-08-08 10:00:00 +0900
 comments: true
 categories: programming
