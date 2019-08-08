@@ -1,0 +1,21 @@
+- name: (주)라이클
+  location: 서울, 대한민국
+  position: 개발팀 (웹)
+  period:
+    - 2014.9 ~ 2016.7
+  description: 언니의파우치, 언파코스메틱 운영사. 언니의파우치 웹(www.unpa.me) 및 어드민 사이트 등 주도적 개발.
+
+- name: United Merchant Services
+  location: New Jersey, U.S.
+  position: 개발팀 (웹)
+  period:
+    - 2013.2 ~ 2014.1 (해외인텁십)
+  description: 미국 뉴저지에 위치한 신용카드 지불 및 POS 솔루션 보유 업체. 신용카드 이상 거래 탐지(Fraud Detection System) 인트라넷 서비스 개발. 회사 소개 홈페이지(www.upsolution.com) 개발.
+
+- name: 인하대학교 지능기술연구실
+  location: 인천, 대한민국
+  position: 학부연구생 (Undergraduate Research Student)
+  period:
+    - 2011.12 ~ 2013.1
+    - 2014.2 ~ 2014.9
+  description: 인공지능, 영상처리 연구 참여 및 프로젝트 진행.
