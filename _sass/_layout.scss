@@ -242,10 +242,20 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-    img {
-        width: 24px;
-        border-radius: 50%;
-        vertical-align: bottom;
+    .left, .right {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .right {
+        font-size: 0;
+        .post-author-image {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            margin: 0 auto;
+            border-radius: 100%;
+            background-size: cover;
+        }
     }
 }
 
