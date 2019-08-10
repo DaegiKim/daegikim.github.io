@@ -4,7 +4,8 @@ title:  "iTerm2 Minimal 테마 사용해보기"
 date:   2019-08-07 10:00:00 +0900
 comments: true
 categories: programming
-tags: utility 맥os 개발도구
+tags: [utility, 맥os, 개발도구]
+keywords: [utility, 맥os, 개발도구, iterm2, iterm, terminal, 터미널, 맥, OS X, 터미널프로그램]
 image: /assets/images/posts/20190807/1.png
 ---
 OS X에서 사용할 수 있는 터미널 에뮬레이터 [iTerm2](https://www.iterm2.com)의 새로운 업데이트인 [3.3.0](https://www.iterm2.com/version3.html) 버전이 지난 7월 31일 릴리즈 되었다.

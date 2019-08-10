@@ -4,7 +4,8 @@ title:  "Jekyll 블로그 LiveReload(자동 새로고침) 기능을 사용해보
 date:   2019-08-08 10:00:00 +0900
 comments: true
 categories: programming
-tags: jekyll tip
+tags: [jekyll, tip]
+keywords: [jekyll, tip, 깃헙, github pages, 깃헙 블로그, rubymine, 지킬 블로그]
 image: /assets/images/posts/20190808/5.png
 ---
 Jekyll은 개발 서버도 내장하고 있어, 로컬에서 브라우저로 접속하여 사이트가 어떻게 생성될 지 미리 살펴 볼 수 있다.[^jekyll]
