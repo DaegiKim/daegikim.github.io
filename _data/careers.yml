@@ -1,3 +1,9 @@
+- name: 주식회사 카카오 (Kakao Corp.)
+  location: 제주, 대한민국
+  position: 개발
+  period:
+    - 2019.9 ~
+
 - name: (주)라이클
   location: 서울, 대한민국
   position: 개발팀 (웹)
